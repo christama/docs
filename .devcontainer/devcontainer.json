@@ -56,7 +56,7 @@
     "4000": {
       "label": "Review"
     }
-  },
+  }, 
 
   // Lifecycle commands
   "onCreateCommand": "npm ci",
